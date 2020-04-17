@@ -3,8 +3,8 @@
     "name":"Duc-Hoang Do",
     "occupation":"Junior Web Developer",
     "image":"profilepic.jpg",
-    "bio1":"Belgium born and raised, with a passion for soccer, a knack for front-end, and a love for traveling. I enjoy the outdoors, whether it's hanging out with friends, going on a new adventure, or trying out a new sport.",
-    "bio2":"I recently graduated from a Full-Stack Web Developer Bootcamp and am seeking new job opportunities in Seattle.",
+    "bio":"From Belgium, with a passion for soccer, a knack for front-end, and a love for traveling. I enjoy the outdoors, whether it's hanging out with friends, going on a new adventure, or trying out a new sport. I recently graduated from a Full-Stack Web Developer Bootcamp and am seeking new job opportunities in Seattle.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ddhoang@uw.edu",
     "phone": "206-669-9740",
     "address":{
@@ -14,11 +14,6 @@
     "resumedownload":"./images/Curriculum Vitae.pdf",
     "social":[
       {
-        "name":"instagram",
-        "url":"http://instagram.com/ddh2o6",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/duchoangdo/",
         "className":"fa fa-linkedin"
@@ -27,16 +22,16 @@
         "name":"github",
         "url":"http://github.com/ddhoang21",
         "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/ddh2o6",
+        "className":"fa fa-instagram"
       }
     ]
   },
   "resume":{
     "education":[
-      {
-        "school":"University of Washington",
-        "degree":"Full-Stack Web Developer Bootcamp",
-        "graduated":"May 2020"
-      },
       {
         "school":"University of Washington",
         "degree":"Bachelors in Communication and International Relations",
@@ -48,11 +43,6 @@
         "company":"Blueprint Technologies",
         "title":"Escalated Regional Specialist",
         "years":"November 2016 - Present"
-      },
-      {
-        "company":"UW Housing, Food and Services",
-        "title":"Dining Staff/Barista",
-        "years":"November 2014 - August 2016"
       }
     ],
     "skills":[
@@ -117,6 +107,14 @@
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
         "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"If it works, it works",
+        "user":"Duc-Hoang"
       }
     ]
   }
