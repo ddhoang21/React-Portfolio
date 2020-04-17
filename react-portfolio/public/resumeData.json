@@ -79,34 +79,40 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Mamma Mia",
+        "category":"Search for music events in the United States",
+        "image":"MammaMia.png",
+        "url":"https://dragonbabe.github.io/Mamma-Mia/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Password Generator",
+        "category":"Generate a random password based on selected criteria",
+        "image":"PasswordGenerator.png",
+        "url":"https://ddhoang21.github.io/Password-Generator/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Capital Quiz",
+        "category":"Take a quiz about capital cities with a timer and score",
+        "image":"CapitalQuiz.png",
+        "url":"https://ddhoang21.github.io/Code-Quiz/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Fitness Tracker",
+        "category":"Create a new workout or continue a previous one and track your progress",
+        "image":"FitnessTracker.png",
+        "url":"https://secret-fjord-16976.herokuapp.com/?id=5e8280dfce6457001745cdc3"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Rinqydink",
+        "category":"A game application that includes a chat and a leaderboard",
+        "image":"Rinqydink.png",
+        "url":"https://rinqydinky.herokuapp.com/"
+      },
+      {
+        "title":"Budget Tracker",
+        "category":"An application with offline access and functionality",
+        "image":"BudgetTracker.png",
+        "url":"https://lychee-shortcake-56164.herokuapp.com/"
       }
     ]
   },
